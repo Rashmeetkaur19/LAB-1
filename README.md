@@ -1,1 +1,1 @@
-https://github.com/Rashmeetkaur19/LAB-1.git
+https://rashmeetkaur19.github.io/LAB-1/
